@@ -1,5 +1,3 @@
-const CustomError = require("../extensions/custom-error");
-
 let a = [[0, 1, '^^'], [0, '^^', 2], ['^^', 1, 2]];
 
 module.exports = function countCats(a) {
